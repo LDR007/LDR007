@@ -133,6 +133,9 @@ firewalls, VPNs and cryptography.
 </a>
 <a href="https://ldr007.github.io/studyguide-info/">
   <img src="https://img.shields.io/badge/Study%20Guide-Website-00a67d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Study Guide">
+  ## 📊 My Contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/LDR007/LDR007/output/github-contribution-grid-snake.svg)
 </a>
 
 </div>
