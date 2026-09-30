@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <rect width="1200" height="260" rx="18" fill="#0d1117"/>
+  <rect x="28" y="28" width="1144" height="204" rx="14" fill="#111827" stroke="#30363d"/>
+  <circle cx="58" cy="58" r="7" fill="#ff5f56"/>
+  <circle cx="82" cy="58" r="7" fill="#ffbd2e"/>
+  <circle cx="106" cy="58" r="7" fill="#27c93f"/>
+  <text x="50" y="105" fill="#00d084" font-family="monospace" font-size="22">$ whoami</text>
+  <text x="50" y="145" fill="#f0f6fc" font-family="monospace" font-size="34">LDR007</text>
+  <text x="50" y="182" fill="#8b949e" font-family="monospace" font-size="20">student developer • build • learn • repeat</text>
+  <text x="50" y="215" fill="#00d084" font-family="monospace" font-size="16">&gt; code → test → break → fix → learn</text>
+</svg>
